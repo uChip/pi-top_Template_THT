@@ -1,5 +1,7 @@
-pi-top Accessory Board Template (KiCad daily build)
-===================================================
+pi-top Accessory Board Template - Thru-Hole Version (KiCad daily build)
+=======================================================================
+
+THIS VERSION USES THRU-HOLE CONNECTORS
 
 <img src="https://github.com/uChip/pi-top_Template/blob/master/Board.PNG" alt="Board outline template" height="390" width="451">
 
@@ -13,11 +15,12 @@ Critical dimensions are the 49mm mounting hole spacing and placement of the inte
 Mounting hole and connector footprint locations have been locked to prevent accidental movement.  They can be unlocked in Footprint->Edit Parameters.
 
 ## BOM Notes:
-The BOM for this project is the board itself, plus the two connectors.  Unfortunately 2x34 pin connectors are not readily available from my preferred vendor, Digi-Key.  I therefore stacked smaller connectors side-by-side to make a total of 34 pins.  
+The BOM for this project is the board itself, plus the two connectors.  The two 2x34 pin connectors are 2mm pitch square-pin right angle headers and matching socket.  My preferred vendor, Digi-Key, has these listed as the following part numbers
 
-On the socket side (J2) this is constructed from one Harwin M22-6550542R (Digi-Key 952-3191-1-ND) and two Harwin M22-6550642R (Digi-Key 952-3192-1-ND).
+	Pins	2x34 right-angle	
+	Socket	2x34 right-angle
 
-On the header (pins) side (J1) this is constructed from one 3M 951224-4620-AR-PR (Digi-Key 3M9210CT-ND) and one 3M 951210-4620-AR-PR (Digi-Key 3M9205CT-ND).
+The pins and sockets mount to the back side of the board.
 
 ## Status:
 The board has not been fab'd and therefore is not tested, but I did a 1:1 printout and compared that to the pi-topPROTO.  I also compared dimensions to Raspberry Pi and pi-top drawings.  Everything checks out so far.
