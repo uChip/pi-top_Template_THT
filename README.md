@@ -2,6 +2,7 @@ pi-top Accessory Board Template - Thru-Hole Version (KiCad daily build)
 =======================================================================
 
 THIS VERSION USES THRU-HOLE CONNECTORS
+As I was working on the SMD version I realized that the connectors have "buried" pins which would make it hard to hand solder, so I'm creating this one with thru-hole connectors instead.
 
 <img src="https://github.com/uChip/pi-top_Template_THT/blob/master/Board.PNG" alt="Board outline template" height="367" width="426">
 
@@ -23,7 +24,7 @@ The BOM for this project is the board itself, plus the two connectors.  The two 
 The pins and sockets mount to the back side of the board.
 
 ## Status:
-The board has not been fab'd and therefore is not tested, but I did a 1:1 printout and compared that to the pi-topPROTO.  I also compared dimensions to Raspberry Pi and pi-top drawings.  Everything checks out so far.
+The board has not been fab'd and therefore is not tested, but I did a 1:1 printout and compared that to the pi-topPROTO.  I also compared dimensions to Raspberry Pi and pi-top drawings.  Everything checks out so far.  I'm awaiting arrival of connectors to verify their placement.
 
 ## File Formats  
 
