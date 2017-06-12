@@ -3,7 +3,7 @@ pi-top Accessory Board Template - Thru-Hole Version (KiCad daily build)
 
 THIS VERSION USES THRU-HOLE CONNECTORS
 
-<img src="https://github.com/uChip/pi-top_Template/blob/master/Board.PNG" alt="Board outline template" height="390" width="451">
+<img src="https://github.com/uChip/pi-top_Template_THT/blob/master/Board.PNG" alt="Board outline template" height="367" width="426">
 
 This is a blank pi-top "accessory" board.  It is a template for creating custom accessory boards that fit within the pi-top laptop and pi-topCEED Raspberry Pi based computers.  It contains the board outline with the accessory buss connectors placed correctly to fit with the pi-top HUB board, pi-topSPEAKER or pi-topPROTO.
 
