@@ -17,8 +17,8 @@ Mounting hole and connector footprint locations have been locked to prevent acci
 ## BOM Notes:
 The BOM for this project is the board itself, plus the two connectors.  The two 2x34 pin connectors are 2mm pitch square-pin right angle headers and matching socket.  My preferred vendor, Digi-Key, has these listed as the following part numbers
 
-	Pins	2x34 right-angle	
-	Socket	2x34 right-angle
+        Pins         2x34 right-angle    Digi-Key #3M9171-34-ND
+        Socket       2x34 right-angle    Digi-Key #SAM1246-17-ND
 
 The pins and sockets mount to the back side of the board.
 
