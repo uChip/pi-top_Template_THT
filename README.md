@@ -10,7 +10,7 @@ This is a blank pi-top "accessory" board.  It is a template for creating custom 
 
 This project was done partly to contribute to the pi-top community and partly to learn KiCad. (I'm switching from Eagle CAD due to Eagle's change in licensing.)
 
-<img src="https://github.com/uChip/pi-top_Template_THT/blob/master/Rendered.PNG" alt="Board outline template" height="440" width="639">
+<img src="https://github.com/uChip/pi-top_Template_THT/Rendered.PNG" alt="Board outline template" height="440" width="639">
 
 ## Board Dimensions:
 Critical dimensions are the 49mm mounting hole spacing and placement of the inter-board connectors.  The actual board width and height can be changed within limits.  A wider board may not leave room for two pi-topSPEAKERs.
